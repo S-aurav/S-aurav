@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s-aurav" alt="s-aurav" /></a> </p>
 
-- 🌱 I’m currently learning **Advanced C++ 20**
+- 🌱 I’m currently learning **Advanced language concepts**
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/s-aurav](https://www.github.com/s-aurav)
 
