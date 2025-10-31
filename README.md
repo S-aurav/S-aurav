@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Saurav Yadav</h1>
-<h3 align="center">A passionate Computer Programmer, developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-aurav&label=Profile%20views&color=0e75b6&style=flat" alt="s-aurav" /> </p>
 
